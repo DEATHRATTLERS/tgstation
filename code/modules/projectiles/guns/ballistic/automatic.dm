@@ -118,7 +118,7 @@
 	icon_state = "wt550"
 	item_state = "arg"
 	mag_type = /obj/item/ammo_box/magazine/wt550m9
-	fire_delay = 2
+	fire_delay = 1
 	can_suppress = FALSE
 	burst_size = 0
 	actions_types = list()
